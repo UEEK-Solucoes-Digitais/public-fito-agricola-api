@@ -52,6 +52,8 @@ Para inserir os dados padrões no banco:
 php artisan db:seed
 ```
 
+Também é necessário adicionar o arquivo do firebase.json na pasta /config/firebase
+
 ## Commits
 
 Siga os padrões de commit instituídos no tutorial: https://github.com/iuricode/padroes-de-commits
