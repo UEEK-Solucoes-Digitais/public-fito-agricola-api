@@ -14,7 +14,7 @@ class UserSeeder extends Seeder
         // senha ja tem um cast de hash no model
         User::create([
             'email' => 'apiadmin@admin.com',
-            'password' => "0LlU_8h272xE",
+            'password' => "",
         ]);
     }
 }
